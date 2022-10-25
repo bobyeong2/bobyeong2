@@ -7,7 +7,7 @@ API design, TDD, CI/CD, and record my growth as a developer.
 
 
 🌱 Skills
-<img src="https://img.shields.io/badge/Python-#3776AB?style=flat&logo=appveyor&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-white?style=flat&logo=python"/>
 
 ###
 
