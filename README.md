@@ -9,10 +9,14 @@ API design, TDD, CI/CD, and record my growth as a developer.
 🌱 Skills
 <p>
 <img src="https://img.shields.io/badge/Python-white?style=flat&logo=python"/>
-<img src="https://img.shields.io/badge/MySQL-white?style=flat&logo=mysql"/>
-  
+<img src="https://img.shields.io/badge/MySQL-white?style=flat&logo=mysql"/>  
 </p>
 
+Web FrameWork
+
+<p><img src="https://img.shields.io/badge/FsatAPI-white?style=flat&logo=fastapi"/></p>
+<p><img src="https://img.shields.io/badge/Django-white?style=flat&logo=django"/></p>
+<p><img src="https://img.shields.io/badge/Flask-white?style=flat&logo=Flask"/></p>
 
 ###
 
