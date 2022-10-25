@@ -1,4 +1,12 @@
-### Hi there 👋
+### 👋 Hi there  I'm a (Junior) back-end developer using Python.
+To become a senior back-end developer in the long run, I will upload my learning content to GitHub.
+
+Currently, my knowledge is mainly uploaded about Python-Web Framework, 
+but in the future, I want to learn important content from developers such as DataBase, 
+API design, TDD, CI/CD, and record my growth as a developer.
+
+
+###
 
 <!--
 **bobyeong2/bobyeong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
