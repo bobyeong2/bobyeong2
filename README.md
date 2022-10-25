@@ -8,17 +8,22 @@ API design, TDD, CI/CD, and record my growth as a developer.
 
 🌱 Skills
 <p>
-<img src="https://img.shields.io/badge/Python-white?style=flat&logo=python"/>
-<img src="https://img.shields.io/badge/MySQL-white?style=flat&logo=mysql"/>  
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>  
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
+<p>Web FrameWork</p>
+<p>
+<img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
-Web FrameWork
+<p>Web Server</p>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 
-<p><img src="https://img.shields.io/badge/FsatAPI-white?style=flat&logo=fastapi"/></p>
-<p><img src="https://img.shields.io/badge/Django-white?style=flat&logo=django"/></p>
-<p><img src="https://img.shields.io/badge/Flask-white?style=flat&logo=Flask"/></p>
 
-###
 
 <!--
 **bobyeong2/bobyeong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
