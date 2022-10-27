@@ -19,7 +19,7 @@ API design, TDD, CI/CD, and record my growth as a developer.
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
-<h3👉 >Web FrameWork </h3>
+<h3>👉Web FrameWork </h3>
 <p>
 <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
