@@ -25,6 +25,10 @@ API design, TDD, CI/CD, and record my growth as a developer.
 
 
 
+<p> My research results</p>
+<a href="https://koreascience.kr/article/JAKO202122450530319.pdf" target=_blank>Recommed system with kakao chatbot</a>
+  
+
 <!--
 **bobyeong2/bobyeong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
