@@ -38,7 +38,7 @@ API design, TDD, CI/CD, and record my growth as a developer.
 
 
 <h3> career </h3>
-2021.03 ~ 2022.03 : Youth Bio Global (Researcher / ICT Team)
+2021.03 ~ 2022.03 : Youth Bio Global (Researcher / ICT Team)</br>
 2022.07 ~ 2022.08 : SYM healthcare   (Developer / Technical development team)
 
 
