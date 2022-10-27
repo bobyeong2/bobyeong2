@@ -26,7 +26,7 @@ API design, TDD, CI/CD, and record my growth as a developer.
 
 
 <p> My research results</p>
-<a href="https://koreascience.kr/article/JAKO202122450530319.pdf"target="_blank" rel="noopener noreferrer">Recommed system with kakao chatbot</a>
+<a target="_blank" rel="noopener noreferrer" href="https://koreascience.kr/article/JAKO202122450530319.pdf">Recommed system with kakao chatbot</a>
   
 
 <!--
