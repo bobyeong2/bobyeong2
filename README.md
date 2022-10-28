@@ -31,9 +31,11 @@ API design, TDD, CI/CD, and record my growth as a developer.
 
 
 
-<h3> My research & results</h3>
+<h3> My research & project results</h3>
 
 <a href="https://koreascience.kr/article/JAKO202122450530319.pdf">Recommed system with kakao chatbot - Youth Bio Global </a>
+<a href="https://pf.kakao.com/_lxoHNK"> Chatbot(우리아이 토닥토닥) - Youth Bio Global </a>
+<a href="https://pf.kakao.com/_pkNxbs"> Chatbot(우리아이 건강 신호등) - Youth Bio Global </a>
 
 
 
