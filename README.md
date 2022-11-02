@@ -33,14 +33,14 @@ API design, TDD, CI/CD, and record my growth as a developer.
 
 <h3> My research & project results</h3>
 
-<a href="https://koreascience.kr/article/JAKO202122450530319.pdf">Recommed system with kakao chatbot - Youth Bio Global </a>
-<a href="https://pf.kakao.com/_lxoHNK"> Chatbot(우리아이 토닥토닥) - Youth Bio Global </a>
+<a href="https://koreascience.kr/article/JAKO202122450530319.pdf">Recommed system with kakao chatbot - Youth Bio Global </a></br>
+<a href="https://pf.kakao.com/_lxoHNK"> Chatbot(우리아이 토닥토닥) - Youth Bio Global </a></br>
 <a href="https://pf.kakao.com/_pkNxbs"> Chatbot(우리아이 건강 신호등) - Youth Bio Global </a>
 
 
 
 <h3> career </h3>
-2021.03 ~ 2022.03 : Youth Bio Global (Researcher / ICT Team)</br>
+<p>2021.03 ~ 2022.03 : Youth Bio Global (Researcher / ICT Team)</p>
 2022.07 ~ 2022.08 : SYM healthcare   (Developer / Technical development team)
 
 
