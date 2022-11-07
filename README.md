@@ -46,8 +46,7 @@ API design, TDD, CI/CD,Web Server and record my growth as a developer.
 
 
 
-<hr>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bobyeong2&show_icons=true&theme=tokyonight)
+
 
 
 <!--
@@ -65,3 +64,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<hr>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bobyeong2&show_icons=true&theme=tokyonight)
