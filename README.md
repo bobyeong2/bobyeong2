@@ -44,6 +44,12 @@ API design, TDD, CI/CD,Web Server and record my growth as a developer.
 2022.07 ~ 2022.08 : SYM healthcare   (Developer / Technical development team)
 
 
+
+
+<hr>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bobyeong2&show_icons=true&theme=tokyonight)
+
+
 <!--
 **bobyeong2/bobyeong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -59,7 +65,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<hr>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobyeong2&show_icons=true&theme=default)
