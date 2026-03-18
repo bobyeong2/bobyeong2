@@ -68,7 +68,6 @@ Python 기반의 안정적인 서버 시스템을 구축하는 Backend Developer
 
 ## 📫 Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://your-blog-url.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a01025494880@gmail.com)
+<!-- [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://your-blog-url.com) -->
 
-<!-- 블로그, LinkedIn 등 링크를 추가하세요 -->
