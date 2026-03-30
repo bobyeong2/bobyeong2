@@ -82,12 +82,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=bobyeong2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
-</div>
-
-<div>
   <img src="https://streak-stats.demolab.com?user=bobyeong2&theme=tokyonight&hide_border=true"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=bobyeong2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" /> !-->
 </div>
 
 
