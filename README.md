@@ -87,7 +87,7 @@
 </div>
 
 <div>
-  <img src="https://streak-stats.demolab.com?user=bobyeong2&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=bobyeong2&theme=tokyonight&hide_border=true"/>
 </div>
 
 
