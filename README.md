@@ -42,7 +42,7 @@
 
 | 기간 | 회사 | 역할 | 주요 성과 |
 |------|------|------|----------|
-| 2022.12 ~ 2025.10 | **(주) 메디벨 바이오** | Backend Developer | AI Model Serving 시간 75% 개선 (20s → 5s), Prometheus+Grafana 모니터링 구축 |
+| 2022.12 ~ 2025.10 | **(주) 메디벨 바이오** | Backend Developer | AI Model Serving 시간 50% 개선 (20s → 10s), Prometheus+Grafana 모니터링 구축 |
 | 2021.03 ~ 2022.03 | **(주) 유스바이오글로벌** | Backend Developer | KakaoTalk 챗봇 서버 설계·개발, CBF 추천 알고리즘 구현, 500명 실증 |
 
 ---
@@ -66,7 +66,7 @@
 > KakaoTalk 기반 영유아 육아 상담 챗봇 & 문진 챗봇
 
 - **Tech:** Flask, Python, Ubuntu, KakaoTalk API
-- **성과:** 데이터바우처 실증 500명 완료, CBF 추천서비스 연구 및 논문 게재
+- **성과:** 데이터바우처 실증 500명 완료, CBF 추천서비스 연구 및 기술개발 문서 작성
 - **역할:** 챗봇 서버 설계·구현, 추천 알고리즘 개발, 사용자 데이터 분석
 
 ### 🍿 밥프로젝트 — 영화 추천 시스템 (Side Project)
